@@ -1,0 +1,4 @@
+Berlin, Germany. You arrive at a club in an unknown district to you. You are slightly intoxicated. " As you try to enter the club, a bouncer blocks your path:
+	1. Try to walk past him
+	2. Say nothing. Look him in the eye.
+	3. "Hello there!"
